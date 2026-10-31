@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+.vercel/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.env*
+# Konfiguracja i klucze pozostają lokalnie.
+.env
+.env.local
+!.env.example
